@@ -21,8 +21,8 @@
     ],
     "compatibility": {
         "minimum": "10",
-        "maximum": "12",
-        "verified": "12.327"
+        "maximum": "14",
+        "verified": "13.350"
     },
     "styles": [
         "css/styles.css"
@@ -35,7 +35,7 @@
                 "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
                 "compatibility": {
                     "minimum": "3",
-                    "verified": "3.2.1"
+                    "verified": "5.1.10"
                 }
             }
         ]
